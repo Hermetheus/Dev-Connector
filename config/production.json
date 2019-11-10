@@ -1,6 +1,0 @@
-{
-	"mongoURI": "mongodb+srv://allan:allan@devconnector-xpk8y.mongodb.net/test?retryWrites=true&w=majority",
-	"jwtSecret": "mysecrettoken",
-	"githubClientId": "cc88956f75b3939aa5ea",
-	"githubSecret": "7114c92beb2949a94b630fad9692149b520991d8"
-}
